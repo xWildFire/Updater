@@ -1,0 +1,3 @@
+@ECHO OFF
+php UPDATE.php
+PAUSE
